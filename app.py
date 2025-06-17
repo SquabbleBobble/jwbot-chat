@@ -9,5 +9,4 @@ query = st.chat_input("Ask your Bible question here...")
 
 if query:
     st.write(f"You asked: {query}")
-    st.info("🔍 I'm searching jw.org content... (response logic coming soon)")
-Streamlit app UI code
+    st.info("🔍 I'm searching jw.org content... (chatbot logic coming soon)")
